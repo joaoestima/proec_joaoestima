@@ -2,10 +2,12 @@ import os
 import csv
 import requests
 from bs4 import BeautifulSoup
+import re
 
 # Example usage
 urls_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls.txt'
 folder_path = 'C:/Users/João Estima/Documents/PROEC/proec_joaoestima/coletor_paragrafos/data/paragraphs_urls'
+
 def read_urls_from_file(urls_path):
     urls = []
     with open(urls_path, 'r', encoding='utf-8') as file:
@@ -24,13 +26,19 @@ def extract_paragraphs_from_url(url):
     # Find all the <p> tags in the parsed HTML
     paragraphs = soup.find_all('p')
 
-    # Extract the text from each <p> tag and store them in a list
     extracted_paragraphs = [p.get_text() for p in paragraphs]
 
-    return extracted_paragraphs
+    sentences = []
+
+    # Split paragraphs into sentences
+    for sentence in extracted_paragraphs:
+        sentences += re.split("(?<=[.!?])\s+", sentence)        
+
+    # Extract the text from each <p> tag and store them in a list
+    return extracted_paragraphs, sentences
 
 
-def save_to_csv(paragraphs, folder, url):
+def save_to_csv(paragraphs, sentences, folder, url):
     # Create the folder if it doesn't exist
     os.makedirs(folder, exist_ok=True)
 
@@ -46,11 +54,15 @@ def save_to_csv(paragraphs, folder, url):
         # Write each paragraph as a row in the CSV file
         for paragraph in paragraphs:
             writer.writerow([paragraph])
+        writer.write(['Paragraph'])    
+        for sentence in sentences:
+            writer.writerow([sentence])
+
 
 
 
 url_list = read_urls_from_file(urls_path)
 
 for url in url_list:
-    paragraphs = extract_paragraphs_from_url(url)
+    paragraphs, senteces = extract_paragraphs_from_url(url)
     save_to_csv(paragraphs, folder_path, url)
