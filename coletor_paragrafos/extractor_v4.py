@@ -49,7 +49,9 @@ for url in url_list:
             sentences = re.split("(?<=[.!?])\s+", paragraph)
 
             # Create a DataFrame for the current paragraph
-            temp_df = pd.DataFrame({'URL': [url] * len(sentences), 'Paragraph': [i] * len(sentences), 'Sentence': sentences})
+            temp_df = pd.DataFrame({'URL': [url] * len(sentences),
+                                    'Paragraph': [i] * len(sentences),
+                                    'Sentence': sentences})
 
             # Append the DataFrame to the main DataFrame
             df = pd.concat([df, temp_df], ignore_index=True)

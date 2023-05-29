@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 page_url = 'https://www.proec.unicamp.br'
 file_path = r'C:/Users/João Estima/Documents/PROEC/proec_joaoestima/coletor_paragrafos/data/'
-filename = 'extracted_urls.txt'
+filename = 'extracted_urls_v5.txt'
 
 def extract_urls_from_page(page_url):
     response = requests.get(page_url)
@@ -12,7 +12,7 @@ def extract_urls_from_page(page_url):
     urls = []
     for link in soup.find_all('a'):
         href = link.get('href')
-        if href and href.startswith('http'):
+        if href and href.startswith('https://www.proec'):
             urls.append(href)
     return urls
 
