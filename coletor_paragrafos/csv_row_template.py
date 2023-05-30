@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-data_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\paragraphs_url' # Define the folder path containing the CSV files
+data_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v5' # Define the folder path containing the CSV files
 template_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
 output_folder = r'C:/Users/João Estima/Documents/PROEC/proec_joaoestima/coletor_paragrafos/data/merged_data'
 urls_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls.txt'
