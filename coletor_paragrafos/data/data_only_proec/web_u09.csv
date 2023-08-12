@@ -1,51 +1,337 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/editais_ead,0,EAD
-https://www.proec.unicamp.br/editais_ead,1,Fique por dentro dos editais
-https://www.proec.unicamp.br/editais_ead,2,EDITAL PROEC-EAD 01/2021 - DIVULGAÇÃO DO RESULTADO FINAL
-https://www.proec.unicamp.br/editais_ead,3,EDITAL PROEC-EAD 01/2021 - DIVULGAÇÃO DO RESULTADO PRELIMINAR
-https://www.proec.unicamp.br/editais_ead,4,DIVULGAÇÃO DO RESULTADO FINAL DOS PROJETOS SELECIONADOS
-https://www.proec.unicamp.br/editais_ead,5,EDITAL ProEC-EAD 01/2021 - CHAMADA PARA SELEÇÃO DE PROJETOS PARA DESENVOLVIMENTO E OFERECIMENTO DE CURSOS DE EXTENSÃO A DISTÂNCIA 
-https://www.proec.unicamp.br/editais_ead,6,SELEÇÃO DE PROJETOS PARA DESENVOLVIMENTO E OFERECIMENTO DE CURSOS DE EXTENSÃO A DISTÂNCIA
-https://www.proec.unicamp.br/editais_ead,7,DIVULGAÇÃO DO RESULTADO FINAL
-https://www.proec.unicamp.br/editais_ead,8,Relação dos Projetos Classificados após o prazo recursal:
-https://www.proec.unicamp.br/editais_ead,9,"Cada professor proponente receberá um email individual, com um link para acessar a avaliação completa e os comentários dos avaliadores referentes ao seu projeto."
-https://www.proec.unicamp.br/editais_ead,10,REUNIÃO DE ORIENTAÇÃO - PROGRAME-SE:
-https://www.proec.unicamp.br/editais_ead,11,Será realizada uma reunião com os responsáveis pelos projetos contemplados e suas equipes em:
-https://www.proec.unicamp.br/editais_ead,12,"Data: 10 de maio de 2021 - terça-feira
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/editais_ead,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,104,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,105,Fique por dentro dos editais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,106,EDITAL PROEC-EAD 01/2021 - DIVULGAÇÃO DO RESULTADO FINAL,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,107,SELEÇÃO DE PROJETOS PARA DESENVOLVIMENTO E OFERECIMENTO DE CURSOS DE EXTENSÃO A DISTÂNCIA,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,108,DIVULGAÇÃO DO RESULTADO FINAL,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,109,DIVULGAÇÃO DO RESULTADO FINAL,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,110,Relação dos Projetos Classificados após o prazo recursal:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,111,"Cada professor proponente receberá um email individual, com um link para acessar a avaliação completa e os comentários dos avaliadores referentes ao seu projeto.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,112,REUNIÃO DE ORIENTAÇÃO - PROGRAME-SE:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,113,REUNIÃO DE ORIENTAÇÃO - PROGRAME-SE:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,114,Será realizada uma reunião com os responsáveis pelos projetos contemplados e suas equipes em:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,115,"Data: 10 de maio de 2021 - terça-feira
           Horário: 14h30 às 16h30
-          Local: Educorp - Sala Multiuso 2"
-https://www.proec.unicamp.br/editais_ead,13,COMPOSIÇÃO DA COMISSÃO AVALIADORA
-https://www.proec.unicamp.br/editais_ead,14,ProEC - Pró-Reitoria de Extensão e Cultura
-https://www.proec.unicamp.br/editais_ead,15,SELEÇÃO DE PROJETOS PARA DESENVOLVIMENTO E OFERECIMENTO DE CURSOS DE EXTENSÃO A DISTÂNCIA
-https://www.proec.unicamp.br/editais_ead,16,DIVULGAÇÃO DO RESULTADO PRELIMINAR
-https://www.proec.unicamp.br/editais_ead,17,Relação dos Projetos Classificados antes do prazo recursal:
-https://www.proec.unicamp.br/editais_ead,18,"Cada professor proponente receberá um email individual, com um link para acessar a avaliação completa e os comentários dos avaliadores referentes ao seu projeto."
-https://www.proec.unicamp.br/editais_ead,19,"A relação definitiva dos Projetos Selecionados só será divulgada após o período de análise dos recursos, conforme Cronograma do Edital."
-https://www.proec.unicamp.br/editais_ead,20,PROGRAME-SE
-https://www.proec.unicamp.br/editais_ead,21,Será realizada uma reunião com os responsáveis pelos projetos contemplados e suas equipes em:
-https://www.proec.unicamp.br/editais_ead,22,"Data: 10 de maio de 2021 - terça-feira
+          Local: Educorp - Sala Multiuso 2",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,116,COMPOSIÇÃO DA COMISSÃO AVALIADORA,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,117,COMPOSIÇÃO DA COMISSÃO AVALIADORA,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,118,Luís Geraldo Pedroso Meloni - ProEC e Presidente da Comissão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,119,Gláucia Lorenzetti - Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,120,Rosley Anholon - GGTE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,121,"Ana de Medeiros Arnt - CONEXT - Ciências da Vida, Biológicas e Saúde",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,122,Anderson S.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,122,"Sant'ana - CONEXT - Ciências Exatas, Engenharias e Tecnológicas",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,123,"Julicristie Machado de Oliveira – CONEXT - Ciências Humanas e Sociais, Economia e Administração",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,124,Cintia Kimie Aihara Nicoletti - CONEXT - Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,125,ProEC - Pró-Reitoria de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,126,EDITAL PROEC-EAD 01/2021 - DIVULGAÇÃO DO RESULTADO PRELIMINAR,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,127,SELEÇÃO DE PROJETOS PARA DESENVOLVIMENTO E OFERECIMENTO DE CURSOS DE EXTENSÃO A DISTÂNCIA,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,128,DIVULGAÇÃO DO RESULTADO PRELIMINAR,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,129,DIVULGAÇÃO DO RESULTADO PRELIMINAR,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,130,Relação dos Projetos Classificados antes do prazo recursal:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,131,"Cada professor proponente receberá um email individual, com um link para acessar a avaliação completa e os comentários dos avaliadores referentes ao seu projeto.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,132,DIVULGAÇÃO DO RESULTADO FINAL DOS PROJETOS SELECIONADOS,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,133,"A relação definitiva dos Projetos Selecionados só será divulgada após o período de análise dos recursos, conforme Cronograma do Edital.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,134,Edital,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,135,PROGRAME-SE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,136,PROGRAME-SE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,137,Será realizada uma reunião com os responsáveis pelos projetos contemplados e suas equipes em:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,138,"Data: 10 de maio de 2021 - terça-feira
           Horário: 14h30 às 16h30
-          Local: Educorp - Sala Multiuso 2"
-https://www.proec.unicamp.br/editais_ead,23,COMPOSIÇÃO DA COMISSÃO AVALIADORA
-https://www.proec.unicamp.br/editais_ead,24,ProEC - Pró-Reitoria de Extensão e Cultura
-https://www.proec.unicamp.br/editais_ead,25,A ProEC lança Edital com chamada para apresentação de Projetos para desenvolvimento e oferecimento de Cursos de Extensão a distância.
-https://www.proec.unicamp.br/editais_ead,25,
-https://www.proec.unicamp.br/editais_ead,26,"O objetivo deste Edital é fomentar o desenvolvimento e o oferecimento de cursos de extensão totalmente a distância via web, com o uso intensivo das Tecnologias Digitais de Informação e Comunicação - TDICs como ferramentas de apoio, visando ampliar o número de vagas e alcance geográfico dos alunos nos cursos de extensão:"
-https://www.proec.unicamp.br/editais_ead,27,"Cada projeto selecionado poderá receber até R$ 20.000,00 para pagamento de prestação de serviços, bolsas de monitoria para alunos de graduação e de pós-graduação e também para aquisição de materiais e de equipamentos, a serem utilizados exclusivamente no desenvolvimento e/ou oferecimento do curso."
-https://www.proec.unicamp.br/editais_ead,27,
-https://www.proec.unicamp.br/editais_ead,28,O prazo para submissão dos projetos vai até dia 17 de fevereiro de 2022 e o início do oferecimento dos cursos deve ocorrer até 01 de março de 2023.
-https://www.proec.unicamp.br/editais_ead,29,"Poderão submeter projetos a este Edital todos os docentes da Unicamp, de qualquer área do conhecimento."
-https://www.proec.unicamp.br/editais_ead,29,"As inscrições serão feitas on line, diretamente na área do professor, no sistema de Administração de Cursos da Extecamp neste endereço: https://www.extecamp.unicamp.br/professor ."
-https://www.proec.unicamp.br/editais_ead,30,"Para solicitar a criação de conta na área do professor ou para outras informações, enviar email para editais.ead@extecamp.unicamp.br, informando nome completo, matrícula e email institucional."
-https://www.proec.unicamp.br/editais_ead,31,Faremos uma reunião para orientação e esclarecimento de dúvidas referentes a esse Edital em:
-https://www.proec.unicamp.br/editais_ead,32,"Data: 10 de dezembro de 2021 - sexta-feira
+          Local: Educorp - Sala Multiuso 2",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,139,COMPOSIÇÃO DA COMISSÃO AVALIADORA,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,140,COMPOSIÇÃO DA COMISSÃO AVALIADORA,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,141,Luís Geraldo Pedroso Meloni - ProEC e Presidente da Comissão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,142,Gláucia Lorenzetti - Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,143,Rosley Anholon - GGTE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,144,"Ana de Medeiros Arnt - CONEXT - Ciências da Vida, Biológicas e Saúde",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,145,Anderson S.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,145,"Sant'ana - CONEXT - Ciências Exatas, Engenharias e Tecnológicas",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,146,"Julicristie Machado de Oliveira – CONEXT - Ciências Humanas e Sociais, Economia e Administração",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,147,Cintia Kimie Aihara Nicoletti - CONEXT - Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,148,ProEC - Pró-Reitoria de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,149,EDITAL ProEC-EAD 01/2021 - CHAMADA PARA SELEÇÃO DE PROJETOS PARA DESENVOLVIMENTO E OFERECIMENTO DE CURSOS DE EXTENSÃO A DISTÂNCIA ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,150,A ProEC lança Edital com chamada para apresentação de Projetos para desenvolvimento e oferecimento de Cursos de Extensão a distância.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,150,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,151,"O objetivo deste Edital é fomentar o desenvolvimento e o oferecimento de cursos de extensão totalmente a distância via web, com o uso intensivo das Tecnologias Digitais de Informação e Comunicação - TDICs como ferramentas de apoio, visando ampliar o número de vagas e alcance geográfico dos alunos nos cursos de extensão:",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,152,Disponibilizando recursos financeiros e apoio institucional para o desenvolvimento e oferecimento de cursos de extensão a distância;,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,153,Mantendo um banco de dados de potenciais projetos / proponentes a serem submetidos a eventuais chamadas de instituições externas nacionais e internacionais.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,153,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,154,"Cada projeto selecionado poderá receber até R$ 20.000,00 para pagamento de prestação de serviços, bolsas de monitoria para alunos de graduação e de pós-graduação e também para aquisição de materiais e de equipamentos, a serem utilizados exclusivamente no desenvolvimento e/ou oferecimento do curso.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,154,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,155,O prazo para submissão dos projetos vai até dia 17 de fevereiro de 2022 e o início do oferecimento dos cursos deve ocorrer até 01 de março de 2023.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,156,"Poderão submeter projetos a este Edital todos os docentes da Unicamp, de qualquer área do conhecimento.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,156,"As inscrições serão feitas on line, diretamente na área do professor, no sistema de Administração de Cursos da Extecamp neste endereço: https://www.extecamp.unicamp.br/professor .",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,157,https://www.extecamp.unicamp.br/professor,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,158,"Para solicitar a criação de conta na área do professor ou para outras informações, enviar email para editais.ead@extecamp.unicamp.br, informando nome completo, matrícula e email institucional.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,159,Faremos uma reunião para orientação e esclarecimento de dúvidas referentes a esse Edital em:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,160,"Data: 10 de dezembro de 2021 - sexta-feira
              Horário: 10h às 11h30
-             Local: Reunião virtual - o link da reunião será enviado para os inscritos na reunião"
-https://www.proec.unicamp.br/editais_ead,33,Faça sua inscrição em: https://sistemas.proec.unicamp.br/admin/inscritos/novo/740
-https://www.proec.unicamp.br/editais_ead,34,Mais informações:
-https://www.proec.unicamp.br/editais_ead,35,"Clique aqui para visualizar o texto completo deste Edital
+             Local: Reunião virtual - o link da reunião será enviado para os inscritos na reunião",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,161,Faça sua inscrição em: https://sistemas.proec.unicamp.br/admin/inscritos/novo/740,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,162,https://sistemas.proec.unicamp.br/admin/inscritos/novo/740,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,163,Mais informações:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,164,Mais informações:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,165,"Clique aqui para visualizar o texto completo deste Edital
 Clique aqui para ver o vídeo sobre o lançamento deste Edital
-"
-https://www.proec.unicamp.br/editais_ead,36,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/editais_ead,36,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,166,Clique aqui para visualizar o texto completo deste Edital,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,167,Clique aqui para ver o vídeo sobre o lançamento deste Edital,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,168,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,169,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,170,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,171,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,172,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,173,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,174,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,175,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,176,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,177,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,178,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,179,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,180,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,181,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,182,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,183,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,184,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,184,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,185,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,185,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,186,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,187,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,188,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,189,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,189,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,190,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,191,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,192,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,193,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_ead,194,Sobre,,,,,,,,,,,,

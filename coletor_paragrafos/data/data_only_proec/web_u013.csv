@@ -1,22 +1,305 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/editais_proext,0,PROEXT
-https://www.proec.unicamp.br/editais_proext,1,Fique por dentro dos editais
-https://www.proec.unicamp.br/editais_proext,2,"O Programa de Extensão Universitária (ProExt) foi instituído mediante DECRETO Nº 6.495, DE 30 DE JUNHO DE 2008."
-https://www.proec.unicamp.br/editais_proext,2,"Tem a finalidade de apoiar instituições públicas de educação superior no desenvolvimento de programas ou projetos de extensão universitária que contribuam para a implementação de políticas públicas, com vistas a ampliar sua interação com a sociedade."
-https://www.proec.unicamp.br/editais_proext,3,centralizar e racionalizar as ações de apoio à extensão universitária desenvolvidas no âmbito do Ministério da Educação;
-https://www.proec.unicamp.br/editais_proext,4,"dotar as instituições públicas de ensino superior de melhores condições de gestão das atividades acadêmicas de extensão, permitindo planejamento de longo prazo;"
-https://www.proec.unicamp.br/editais_proext,5,"potencializar e ampliar os patamares de qualidade das ações de extensão, projetando-as para a sociedade e contribuindo para o alcance da missão das instituições públicas de ensino superior;"
-https://www.proec.unicamp.br/editais_proext,6,fomentar programas e projetos de extensão que contribuam para o fortalecimento de políticas públicas;
-https://www.proec.unicamp.br/editais_proext,7,"estimular o desenvolvimento social e o espírito crítico dos estudantes, bem como a atuação profissional pautada na cidadania e na função social da educação superior;"
-https://www.proec.unicamp.br/editais_proext,8,contribuir para a melhoria da qualidade da educação brasileira por meio do contato direto dos estudantes com realidades concretas e da troca de saberes acadêmicos e populares;
-https://www.proec.unicamp.br/editais_proext,9,propiciar a democratização e difusão do conhecimento acadêmico; e
-https://www.proec.unicamp.br/editais_proext,10,fomentar o estreitamento dos vínculos entre as instituições de ensino superior e as comunidades populares do entorno.
-https://www.proec.unicamp.br/editais_proext,11,"Inscrição de proposta que se refere a programas ou projetos afins com as atuais políticas públicas, em especial com as políticas sociais."
-https://www.proec.unicamp.br/editais_proext,11,"O Ministério da Educação (MEC) define Projeto de Extensão como um conjunto de ações processuais contínuas, de caráter educativo, social, cultural ou tecnológico, com objetivo específico e prazo determinado."
-https://www.proec.unicamp.br/editais_proext,11,"O Programa de Extensão é definido como sendo um conjunto articulado de projetos e outras ações de extensão, de caráter multidisciplinar e integrado a atividades de pesquisa e de ensino."
-https://www.proec.unicamp.br/editais_proext,11,"Tem caráter orgânico-institucional, integração no território e/ou grupos populacionais, clareza de diretrizes e orientação para um objetivo comum, sendo executado a médio e longo prazo por alunos orientados por um ou mais docentes da Unicamp."
-https://www.proec.unicamp.br/editais_proext,12,Docentes e alunos de graduação regularmente matriculados na Unicamp.
-https://www.proec.unicamp.br/editais_proext,13,"Geralmente o MEC divulga os editais no primeiro semestre de cada ano e, mais especificamente, no mês de fevereiro."
-https://www.proec.unicamp.br/editais_proext,14,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/editais_proext,14,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/editais_proext,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,104,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,105,Fique por dentro dos editais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,106,"O Programa de Extensão Universitária (ProExt) foi instituído mediante DECRETO Nº 6.495, DE 30 DE JUNHO DE 2008.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,106,"Tem a finalidade de apoiar instituições públicas de educação superior no desenvolvimento de programas ou projetos de extensão universitária que contribuam para a implementação de políticas públicas, com vistas a ampliar sua interação com a sociedade.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,107,Objetivos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,108,"
+centralizar e racionalizar as ações de apoio à extensão universitária desenvolvidas no âmbito do Ministério da Educação;
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,109,centralizar e racionalizar as ações de apoio à extensão universitária desenvolvidas no âmbito do Ministério da Educação;,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,110,"
+dotar as instituições públicas de ensino superior de melhores condições de gestão das atividades acadêmicas de extensão, permitindo planejamento de longo prazo;
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,111,"dotar as instituições públicas de ensino superior de melhores condições de gestão das atividades acadêmicas de extensão, permitindo planejamento de longo prazo;",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,112,"
+potencializar e ampliar os patamares de qualidade das ações de extensão, projetando-as para a sociedade e contribuindo para o alcance da missão das instituições públicas de ensino superior;
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,113,"potencializar e ampliar os patamares de qualidade das ações de extensão, projetando-as para a sociedade e contribuindo para o alcance da missão das instituições públicas de ensino superior;",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,114,"
+fomentar programas e projetos de extensão que contribuam para o fortalecimento de políticas públicas;
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,115,fomentar programas e projetos de extensão que contribuam para o fortalecimento de políticas públicas;,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,116,"
+estimular o desenvolvimento social e o espírito crítico dos estudantes, bem como a atuação profissional pautada na cidadania e na função social da educação superior;
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,117,"estimular o desenvolvimento social e o espírito crítico dos estudantes, bem como a atuação profissional pautada na cidadania e na função social da educação superior;",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,118,"
+contribuir para a melhoria da qualidade da educação brasileira por meio do contato direto dos estudantes com realidades concretas e da troca de saberes acadêmicos e populares;
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,119,contribuir para a melhoria da qualidade da educação brasileira por meio do contato direto dos estudantes com realidades concretas e da troca de saberes acadêmicos e populares;,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,120,"
+propiciar a democratização e difusão do conhecimento acadêmico; e
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,121,propiciar a democratização e difusão do conhecimento acadêmico; e,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,122,"
+fomentar o estreitamento dos vínculos entre as instituições de ensino superior e as comunidades populares do entorno.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,122,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,123,fomentar o estreitamento dos vínculos entre as instituições de ensino superior e as comunidades populares do entorno.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,124,Como participar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,125,"Inscrição de proposta que se refere a programas ou projetos afins com as atuais políticas públicas, em especial com as políticas sociais.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,125,"O Ministério da Educação (MEC) define Projeto de Extensão como um conjunto de ações processuais contínuas, de caráter educativo, social, cultural ou tecnológico, com objetivo específico e prazo determinado.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,125,"O Programa de Extensão é definido como sendo um conjunto articulado de projetos e outras ações de extensão, de caráter multidisciplinar e integrado a atividades de pesquisa e de ensino.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,125,"Tem caráter orgânico-institucional, integração no território e/ou grupos populacionais, clareza de diretrizes e orientação para um objetivo comum, sendo executado a médio e longo prazo por alunos orientados por um ou mais docentes da Unicamp.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,126,Quem pode participar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,127,Docentes e alunos de graduação regularmente matriculados na Unicamp.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,128,Quando se inscrever,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,129,"Geralmente o MEC divulga os editais no primeiro semestre de cada ano e, mais especificamente, no mês de fevereiro.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,130,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,131,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,132,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,133,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,134,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,135,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,136,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,137,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,138,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,139,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,140,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,141,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,142,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,143,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,144,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,145,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,146,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,146,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,147,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,147,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,148,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,149,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,150,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,151,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,151,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,152,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,153,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,154,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,155,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_proext,156,Sobre,,,,,,,,,,,,

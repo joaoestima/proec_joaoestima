@@ -1,16 +1,300 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/editais_acoes_ext,0,Ações de Extensão e Cultura
-https://www.proec.unicamp.br/editais_acoes_ext,1,"Política de apoio a Ações de Extensão, Artísticas e Culturais"
-https://www.proec.unicamp.br/editais_acoes_ext,2,"→ Solicitação de Apoio para Ações de Extensão, Artísticas e Culturais da PROEC"
-https://www.proec.unicamp.br/editais_acoes_ext,3,"Em busca de  valorização e apoio às Ações de Extensão e Cultura da  UNICAMP, a ProEC busca financiar ações de curto prazo."
-https://www.proec.unicamp.br/editais_acoes_ext,3,"Para esse fim,  disponibiliza auxílio financeiro e de estrutura para Ações de Extensão,  Artísticas e Culturais em fluxo contínuo."
-https://www.proec.unicamp.br/editais_acoes_ext,3,Os requisitos para solicitação  deste apoio são: 
-https://www.proec.unicamp.br/editais_acoes_ext,4,→ Relatório de Apoio dado pela Proec
-https://www.proec.unicamp.br/editais_acoes_ext,5,"A ProEC avaliará os pedidos enviados, podendo concedê-los ou não de  acordo com disponibilidade de orçamento e/ou adequação do projeto aos objetivos  estratégicos da ProEC."
-https://www.proec.unicamp.br/editais_acoes_ext,5,"A avaliação emitida pela ProEC é definitiva, e não  caberá recurso."
-https://www.proec.unicamp.br/editais_acoes_ext,5,O prazo para avaliação da proposta pela ProEC é 15 dias.
-https://www.proec.unicamp.br/editais_acoes_ext,5,
-https://www.proec.unicamp.br/editais_acoes_ext,6, 
-https://www.proec.unicamp.br/editais_acoes_ext,7,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/editais_acoes_ext,7,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/editais_acoes_ext,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,104,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,105,"Política de apoio a Ações de Extensão, Artísticas e Culturais",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,106,"Em busca de  valorização e apoio às Ações de Extensão e Cultura da  UNICAMP, a ProEC busca financiar ações de curto prazo.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,106,"Para esse fim,  disponibiliza auxílio financeiro e de estrutura para Ações de Extensão,  Artísticas e Culturais em fluxo contínuo.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,106,Os requisitos para solicitação  deste apoio são: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,107,"Os pedidos devem ser aprovados pela Coordenação de  Extensão ou pela Direção da unidade do docente, antes de sua submissão.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,107,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,108,"O solicitante deve ser um docente da UNICAMP e  preencher o formulário Solicitação de Apoio para Ações de Extensão, Artísticas  e Culturais (ou sistema que o substitua): ",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,109,"→ Solicitação de Apoio para Ações de Extensão, Artísticas e Culturais da PROEC",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,110,"→ Solicitação de Apoio para Ações de Extensão, Artísticas e Culturais da PROEC",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,111,O encaminhamento do formulário de solicitação à ProEC  deve ocorrer com antecedência mínima de 45 dias da realização da atividade que  será objeto de apoio.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,111,Solicitações encaminhadas com prazo inferior ao  estipulado neste item serão automaticamente recusadas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,111,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,112,"O limite de auxílio por ação é de R$ 5.000,00, podendo  em casos excepcionais ser suplementado à critério exclusivo da ProEC.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,112,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,113,Esta linha de apoio é destinada exclusivamente a ações  de curto prazo.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,113,"Para auxílio à projetos e programas que demandem maior apoio, o  proponente pode se inscrever nos Editais de Apoio à Extensão e Cultura da  ProEC, que têm edições  anuais e fomentam projetos de maior valor.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,114,As  solicitações de apoio a Ações de Extensão e Cultura serão analisadas segundo os  princípios norteadores das ações estratégicas da ProEC:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,115,o  pensamento e planejamento estratégico das ações propostas;,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,116,"a indissociabilidade entre extensão/arte/cultura,  ensino e pesquisa; ",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,117,participação de discentes de graduação e pós-graduação  nas ações propostas; ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,118,"a valorização da extensão, da arte e da cultura como  atividades acadêmicas; ",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,119,"o vínculo, a integração e o compromisso com a  sociedade; ",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,120,"a integração entre as ações de extensão, artísticas e culturais na  universidade;",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,121,o  caráter inter e transdisciplinar das ações propostas;,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,122,"a  inovação nas ações de extensão, e;",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,123,a transparência  e comunicação com a sociedade.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,124,Após  a realização da atividade os solicitantes devem enviar relatório detalhado à  ProEC utilizando o formulário:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,125,→ Relatório de Apoio dado pela Proec,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,126,→ Relatório de Apoio dado pela Proec,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,127,A não  apresentação ou reprovação do relatório implica em  impedimento para solicitação de novos auxílios à ProEC.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,127,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,128,O docente contemplado em solicitações de apoio a Ações  de Extensão e Cultura se compromete atuar como parecerista na avaliação de  projetos encaminhados em Editais de Extensão e Cultura promovidos pela ProEC.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,128,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,129,Cada docente poderá ser contemplado nesta linha e  apoio a Ações de Extensão e Cultura apenas uma vez por ano.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,129,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,130,"A ProEC avaliará os pedidos enviados, podendo concedê-los ou não de  acordo com disponibilidade de orçamento e/ou adequação do projeto aos objetivos  estratégicos da ProEC.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,130,"A avaliação emitida pela ProEC é definitiva, e não  caberá recurso.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,130,O prazo para avaliação da proposta pela ProEC é 15 dias.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,130,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,131, ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,132,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,133,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,134,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,135,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,136,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,137,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,138,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,139,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,140,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,141,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,142,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,143,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,144,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,145,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,146,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,147,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,148,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,148,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,149,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,149,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,150,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,151,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,152,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,153,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,153,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,154,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,155,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,156,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,157,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_acoes_ext,158,Sobre,,,,,,,,,,,,

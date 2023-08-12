@@ -1,39 +1,292 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/eventos,0,Eventos
-https://www.proec.unicamp.br/eventos,1,Nossa agenda de eventos
-https://www.proec.unicamp.br/eventos,2,04
-https://www.proec.unicamp.br/eventos,3,ago
-https://www.proec.unicamp.br/eventos,4,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.
-https://www.proec.unicamp.br/eventos,4,
-https://www.proec.unicamp.br/eventos,5,07
-https://www.proec.unicamp.br/eventos,6,ago
-https://www.proec.unicamp.br/eventos,7,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.
-https://www.proec.unicamp.br/eventos,8,08
-https://www.proec.unicamp.br/eventos,9,ago
-https://www.proec.unicamp.br/eventos,10,Fórum Permanente: E-sports são esportes?
-https://www.proec.unicamp.br/eventos,11,09
-https://www.proec.unicamp.br/eventos,12,ago
-https://www.proec.unicamp.br/eventos,13,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.
-https://www.proec.unicamp.br/eventos,14,FÓRUNS
-https://www.proec.unicamp.br/eventos,15,"Início:
-                04/08/2023, 09:00"
-https://www.proec.unicamp.br/eventos,16,"Fim:
-                04/08/2023, 17:00"
-https://www.proec.unicamp.br/eventos,17,FÓRUNS
-https://www.proec.unicamp.br/eventos,18,"Início:
-                07/08/2023, 09:00"
-https://www.proec.unicamp.br/eventos,19,"Fim:
-                07/08/2023, 17:00"
-https://www.proec.unicamp.br/eventos,20,FÓRUNS
-https://www.proec.unicamp.br/eventos,21,"Início:
-                08/08/2023, 09:00"
-https://www.proec.unicamp.br/eventos,22,"Fim:
-                08/08/2023, 17:00"
-https://www.proec.unicamp.br/eventos,23,FÓRUNS
-https://www.proec.unicamp.br/eventos,24,"Início:
-                09/08/2023, 09:00"
-https://www.proec.unicamp.br/eventos,25,"Fim:
-                09/08/2023, 17:00"
-https://www.proec.unicamp.br/eventos,26,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/eventos,26,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/eventos,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,104,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,105,Nossa agenda de eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,106,04,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,107,ago,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,108,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,109,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,110,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,110,,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,111,Centro de Convenções da UNICAMP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,112,"Início:
+                04/08/2023, 09:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,113,Início:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,114,"Fim:
+                04/08/2023, 17:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,115,Fim:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,116,Saiba mais,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,117,07,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,118,ago,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,119,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,120,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,121,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,122,Centro de Convenções da UNICAMP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,123,"Início:
+                07/08/2023, 09:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,124,Início:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,125,"Fim:
+                07/08/2023, 17:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,126,Fim:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,127,Saiba mais,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,128,08,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,129,ago,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,130,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,131,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,132,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,133,Centro de Convenções da UNICAMP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,134,"Início:
+                08/08/2023, 09:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,135,Início:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,136,"Fim:
+                08/08/2023, 17:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,137,Fim:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,138,Saiba mais,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,139,09,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,140,ago,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,141,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,142,FÓRUNS,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,143,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,144,Centro de Convenções da UNICAMP,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,145,"Início:
+                09/08/2023, 09:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,146,Início:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,147,"Fim:
+                09/08/2023, 17:00",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,148,Fim:,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,149,Saiba mais,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,150,,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,151,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,151,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,152,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,153,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,154,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,155,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/eventos,156,Sobre,,,,,,,,,,,,

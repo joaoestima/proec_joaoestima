@@ -1,18 +1,307 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/editais_itcp,0,ITCP
-https://www.proec.unicamp.br/editais_itcp,1,Fique por dentro dos editais
-https://www.proec.unicamp.br/editais_itcp,2,Edital 2022
-https://www.proec.unicamp.br/editais_itcp,3,Editais ITCP – Incubadora Tecnológica de Cooperativas Populares
-https://www.proec.unicamp.br/editais_itcp,4,Como participar
-https://www.proec.unicamp.br/editais_itcp,5,Veja os editais:
-https://www.proec.unicamp.br/editais_itcp,6,Prorrogação do Edital ITCP
-https://www.proec.unicamp.br/editais_itcp,7,Prorrogação do Edital ITCP
-https://www.proec.unicamp.br/editais_itcp,8,Edital FINAL ITCP
-https://www.proec.unicamp.br/editais_itcp,9,A Incubadora Tecnológica de Cooperativas Populares (ITCP) é um programa de Extensão da Unicamp fundado em 2001 que atua com grupos populares em Campinas e região.
-https://www.proec.unicamp.br/editais_itcp,9,"Os temas abordados são economia solidária, educação popular, tecnologia social, gênero, movimentos sociais e autogestão.Por meio dos editais ITCP, são realizados processos seletivos para selecionar estudantes de graduação da Unicamp que queiram atuar no projeto."
-https://www.proec.unicamp.br/editais_itcp,10,"Para se candidatar ao processo seletivo, o estudante deve verificar o edital em vigor e providenciar o requerimento de inscrição e os documentos solicitados dentro do prazo estipulado."
-https://www.proec.unicamp.br/editais_itcp,10,"A inscrição deve ser protocolada na Diretoria de Projetos de Extensão - Pró-Reitoria de Extensão e Cultura (ProEC), localizada no endereço Av."
-https://www.proec.unicamp.br/editais_itcp,10,"Érico Veríssimo, 800."
-https://www.proec.unicamp.br/editais_itcp,11,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/editais_itcp,11,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/editais_itcp,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,104,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,105,Fique por dentro dos editais,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,106,Edital 2022,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,107,Edital 2022 Abertura  - 16/05/2022 a 27/05/2022),,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,108,Edital 2022 Abertura  - 16/05/2022 a 27/05/2022),,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,109,Prorrogação do Edital ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,110,Prorrogação do Edital ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,111,Edital_Prorrogacao_itcp_2022.pdf,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,112,Edital_Prorrogacao_itcp_2022.pdf,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,113,Prorrogação do Edital ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,114,Prorrogação do Edital ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,115,Edital-entrevista-estagio_itcp_2022.pdf,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,116,Edital-entrevista-estagio_itcp_2022.pdf,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,117,Edital FINAL ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,118,Edital FINAL ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,119,Edital-entrevista-estagio_itcp_2022.pdf,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,120,Edital-entrevista-estagio_itcp_2022.pdf,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,121,Editais ITCP – Incubadora Tecnológica de Cooperativas Populares,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,122,A Incubadora Tecnológica de Cooperativas Populares (ITCP) é um programa de Extensão da Unicamp fundado em 2001 que atua com grupos populares em Campinas e região.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,122,"Os temas abordados são economia solidária, educação popular, tecnologia social, gênero, movimentos sociais e autogestão.Por meio dos editais ITCP, são realizados processos seletivos para selecionar estudantes de graduação da Unicamp que queiram atuar no projeto.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,123,Como participar,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,124,"Para se candidatar ao processo seletivo, o estudante deve verificar o edital em vigor e providenciar o requerimento de inscrição e os documentos solicitados dentro do prazo estipulado.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,124,"A inscrição deve ser protocolada na Diretoria de Projetos de Extensão - Pró-Reitoria de Extensão e Cultura (ProEC), localizada no endereço Av.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,124,"Érico Veríssimo, 800.",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,125,Veja os editais:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,126,Edital 2021 - Entrevista,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,127,Edital 2021 - Entrevista,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,128,Edital 2021 - Prorrogação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,129,Edital 2021 - Prorrogação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,130,Edital 2021,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,131,Edital 2021,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,132,"Resultado Final
+
+
+Edital 2019 - 30 horas
+Edital 2019 - 20 horas
+Edital 2018
+Classificação final
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,133,Resultado Final,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,134,Edital 2019 - 30 horas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,135,Edital 2019 - 30 horas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,136,Edital 2019 - 20 horas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,137,Edital 2019 - 20 horas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,138,Edital 2018,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,139,Edital 2018,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,140,Classificação final,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,141,Classificação final,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,142,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,143,Fórum Especial - 20 Anos: Direitos Humanos na Prática:,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,144,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,145,Além da Guerra às Drogas: ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,146,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,147,A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,148,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,149,E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,150,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,151,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,152,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,153,Fórum Permanente: E-sports são esportes?,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,154,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,155,Fórum Permanente: A Lei Geral de Proteção de Dados Pessoais e as Universidades Estaduais Paulistas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,156,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,157,Fórum Permanente: A medição da Pobreza Multidimensional por meio da abordagem consensual.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,158,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,158,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,159,Fórum Permanente: Saúde da população negra e LGBTQIA+: o desafio da inclusão.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,159,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,160,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,161,Seminário de Extensão e Cultura: Casas dos Saberes Ancestrais ,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,162,,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,163,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,163,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,164,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,165,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,166,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,167,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/editais_itcp,168,Sobre,,,,,,,,,,,,

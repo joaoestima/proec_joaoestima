@@ -1,13 +1,262 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/paginas/congresso,0,4º Congresso de Extensão e Cultura da Unicamp
-https://www.proec.unicamp.br/paginas/congresso,1,"21, 22 e 23 de Novembro"
-https://www.proec.unicamp.br/paginas/congresso,2,Venha participar do congresso!
-https://www.proec.unicamp.br/paginas/congresso,3,Notícias
-https://www.proec.unicamp.br/paginas/congresso,4,Redes Sociais
-https://www.proec.unicamp.br/paginas/congresso,5,Patrocinadores
-https://www.proec.unicamp.br/paginas/congresso,6,"O 4º Congresso de Extensão e Cultura da Unicamp acontecerá nos dias 21, 22 e 23 de novembro, no Centro de Convenções e no Ginásio Multidisciplinar da Unicamp."
-https://www.proec.unicamp.br/paginas/congresso,6,"O evento, organizado pela Pró-Reitoria de Extensão e Cultura (Proec), pretende reunir extensionistas e pesquisadores de todo país, para discutir as principais temáticas relacionadas à extensão e cultura no ambiente universitário."
-https://www.proec.unicamp.br/paginas/congresso,7,"Você pode conferir mais detalhes sobre o evento, além da nossa programação, nos links abaixo."
-https://www.proec.unicamp.br/paginas/congresso,8,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/paginas/congresso,8,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/paginas/congresso,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,104,4º Congresso de Extensão e Cultura da Unicamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,105,"21, 22 e 23 de Novembro",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,106,Venha participar do congresso!,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,107,"O 4º Congresso de Extensão e Cultura da Unicamp acontecerá nos dias 21, 22 e 23 de novembro, no Centro de Convenções e no Ginásio Multidisciplinar da Unicamp.",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,107,"O evento, organizado pela Pró-Reitoria de Extensão e Cultura (Proec), pretende reunir extensionistas e pesquisadores de todo país, para discutir as principais temáticas relacionadas à extensão e cultura no ambiente universitário.",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,108,"Você pode conferir mais detalhes sobre o evento, além da nossa programação, nos links abaixo.",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,109,  Sobre o Congresso ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,110,  Inscrições ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,111,  Submissão de Trabalhos ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,112,  Programação ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,113,  Informações Úteis ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,114,  Certificados ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,115,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,116, ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,117,Submissão de trabalhos prorrogada até 6/11,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,118, ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,119,Congresso reunirá ações de extensão e cultura de todo o Brasil na Unicamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,120, Anterior ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,121, Próximo ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,122,Redes Sociais,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,123,  ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,124,  ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,125,  ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,126,  ,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,127,Patrocinadores,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,128,,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,129,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,129,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,130,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,131,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,132,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,133,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/paginas/congresso,134,Sobre,,,,,,,,,,,,

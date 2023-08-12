@@ -4,9 +4,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-urls_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls.txt'
-output_folder = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v5_standard'
-template_path = r'C:\Users\João Estima\Documents\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
+urls_path = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls_v6.txt'
+output_folder = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v6'
+template_path = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
 
 
 def read_urls_from_file(urls_path):
@@ -17,76 +17,78 @@ def read_urls_from_file(urls_path):
             urls.append(url)
     return urls
 
+
 def extract_content_from_url(url):
-    # Send a GET request to the URL
     response = requests.get(url)
+    response.raise_for_status()
 
-    # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(response.content, 'html.parser')
+    tags = soup.find_all(re.compile(r'^h[1-6]$|^a$|^b$|^p$|^small$|^li$'))
 
-    # Find all the <h1> to <h5> tags in the parsed HTML
-    title_tags = soup.find_all(re.compile('^h[1-5]$'))
-
-    # Extract the titles
-    paragraphs = [title.get_text() for title in title_tags]
-
-    # Find all the <p> tags in the parsed HTML
-    paragraph_tags = soup.find_all('p')
-
-    # Extract the paragraphs
-    paragraphs += [paragraph.get_text() for paragraph in paragraph_tags]
-
+    paragraphs = [tag.get_text() for tag in tags if tag.get_text().strip()]
     return paragraphs
 
+
 def save_to_csv(data, output_folder, file_name):
-    # Save the DataFrame to a CSV file
     os.makedirs(output_folder, exist_ok=True)
     file_path = os.path.join(output_folder, file_name)
     data.to_csv(file_path, index=False, encoding='utf-8')
 
-def main():
-    url_list = read_urls_from_file(urls_path)
-    for url in url_list:
-        paragraphs = extract_content_from_url(url)
 
-        # Create an empty DataFrame to store the data
-        df = pd.DataFrame(columns=['URL', 'Paragraph', 'Sentence'])
-
-        # Add titles as separate sentences in the first paragraph
-        if paragraphs:
-            # Add remaining paragraphs with sentences
-            for i, paragraph in enumerate(paragraphs):
-                sentences = re.split("(?<=[.!?])\s+", paragraph)
-
-                # Create a DataFrame for the current paragraph
-                temp_df = pd.DataFrame({
-                    'URL': [url] * len(sentences),
-                    'Paragraph': [i] * len(sentences),
-                    'Sentence': sentences
-                })
-
-                # Append the DataFrame to the main DataFrame
-                df = pd.concat([df, temp_df], ignore_index=True)
-
-            # Save the DataFrame to a CSV file for the current URL
-            file_name = url.replace('https://', f'web_u0{i}').replace('/', '_').replace('www.', '') + '.csv'
-            save_to_csv(df, output_folder, file_name)
-            print(f"Processed: {url}")
-
-    # Merge the generated CSV files with the template
-    template_df = pd.read_csv(template_path)
-
-    merged_df = pd.DataFrame(columns=template_df.columns)
-
+def count_and_store_rows(output_folder):
+    total_rows = 0
     for filename in os.listdir(output_folder):
         if filename.endswith('.csv'):
             file_path = os.path.join(output_folder, filename)
             data_df = pd.read_csv(file_path)
-            merged_df = pd.concat([merged_df, data_df], ignore_index=True)
+            total_rows += len(data_df)
 
-    merged_output_path = os.path.join(output_folder, 'merged_data.csv')
-    merged_df.to_csv(merged_output_path, index=False, encoding='utf-8')
+    with open(os.path.join(output_folder, 'total_rows.txt'), 'w') as total_rows_file:
+        total_rows_file.write(f'Total Rows: {total_rows}')
 
-    print("Merged data saved to data_v4")
 
-main()
+def main():
+    url_list = read_urls_from_file(urls_path)
+
+    try:
+        os.makedirs(output_folder)
+    except FileExistsError:
+        pass  # Output folder already exists
+
+    for url in url_list:
+        paragraphs = extract_content_from_url(url)
+        if not paragraphs:
+            continue
+
+        df = pd.DataFrame(columns=['URL', 'Parágrafo/Bloco', 'Sentença', 'Português', 'Resp. Português',
+                                   'Rev. Português', 'Glosas', 'Resp. Glosas', 'Arquivo Vídeo',
+                                   'Resp. Vídeo', 'Rev. Tradução', 'Mocap', 'Vídeo Mocap',
+                                   'Elan', 'Resp.  Elan','Rev. Elan'])
+
+        for i, paragraph in enumerate(paragraphs):
+            sentences = re.split("(?<=[.!?])\s+", paragraph)
+            temp_df = pd.DataFrame({
+                'URL': [url] * len(sentences),
+                'Parágrafo/Bloco': [i] * len(sentences),
+                'Sentença': sentences
+            })
+            df = pd.concat([df, temp_df], ignore_index=True)
+
+        # Drop duplicates based on URL and Sentença columns
+        df = df.drop_duplicates(subset=['URL', 'Sentença'])
+
+        # Reset the index of the "Parágrafo/Bloco" column
+        df['Parágrafo/Bloco'] = df.groupby('URL').cumcount()
+
+        j = len(os.listdir(output_folder)) + 1
+        file_name = f'web_u0{j}.csv'
+
+        save_to_csv(df, output_folder, file_name)
+        print(f"Processed: {url}")
+
+    count_and_store_rows(output_folder)
+    print("Row count stored.")
+
+
+if __name__ == '__main__':
+    main()

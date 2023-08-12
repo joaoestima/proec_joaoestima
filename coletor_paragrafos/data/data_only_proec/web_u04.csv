@@ -1,11 +1,262 @@
-URL,Paragraph,Sentence
-https://www.proec.unicamp.br/adm,0,Diretoria Administrativa
-https://www.proec.unicamp.br/adm,1,Missão
-https://www.proec.unicamp.br/adm,2,Visão
-https://www.proec.unicamp.br/adm,3,Valores
-https://www.proec.unicamp.br/adm,4,"Dar suporte administrativo ao Pró Reitor, seus assessores, diretores e demais servidores, organizando as informações pertinentes necessárias para o bom andamento dos serviços."
-https://www.proec.unicamp.br/adm,5,"Ser a principal referência para a PROEC e demais Órgãos, no atendimento às demandas administrativas dos seus usuários."
-https://www.proec.unicamp.br/adm,6,Cumprir a missão da área com:
-https://www.proec.unicamp.br/adm,7,© Pró-Reitoria de Extensão e Cultura.
-https://www.proec.unicamp.br/adm,7,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
-"
+URL,Parágrafo/Bloco,Sentença,Português,Resp. Português,Rev. Português,Glosas,Resp. Glosas,Arquivo Vídeo,Resp. Vídeo,Rev. Tradução,Mocap,Vídeo Mocap,ElanResp.  Elan,Rev. Elan
+https://www.proec.unicamp.br/adm,0,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,1,"
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,2,#SomosPROEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,3,,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,4,"
+Home
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,5,Home,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,6,"
+Renex
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,7,Renex,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,8,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,9,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,10,"
+
+							Diretorias
+						
+
+Administrativa
+Comunicação
+Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+
+Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+
+Extensão 48
+Fóruns Permanentes
+Informática
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,11,"
+							Diretorias
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,12,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,13,Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,14,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,15,Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,16,"Cultura
+
+DCult
+Centro de Convenções
+Casa do Lago
+CIS Guanabara
+Ginásio Multidisciplinar
+Museu de Artes Visuais
+Museu Exploratório de Ciências
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,17,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,18,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,19,DCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,20,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,21,Centro de Convenções,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,22,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,23,Casa do Lago,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,24,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,25,CIS Guanabara,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,26,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,27,Ginásio Multidisciplinar,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,28,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,29,Museu de Artes Visuais,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,30,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,31,Museu Exploratório de Ciências,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,32,"Extensão
+
+DExt
+DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+
+Extecamp
+UniversIDADE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,33,Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,34,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,35,DExt,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,36,"DProj
+
+DProj
+Malunga
+ITCP
+Projeto Rondon
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,37,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,38,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,39,DProj,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,40,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,41,Malunga,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,42,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,43,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,44,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,45,Projeto Rondon,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,46,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,47,Extecamp,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,48,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,49,UniversIDADE,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,50,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,51,Extensão 48,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,52,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,53,Fóruns Permanentes,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,54,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,55,Informática,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,56,"
+
+							Conselhos
+						
+
+ConCult
+ConEXT
+CCE
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,57,"
+							Conselhos
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,58,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,59,ConCult,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,60,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,61,ConEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,62,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,63,CCE,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,64,"
+
+							Editais & Bolsas
+						
+
+Ações de Extensão e Cultura
+Edital dos Colégios Técnicos
+Ações Afirmativas
+Bolsa de Extensão
+Cultura
+EAD
+Curricularização da Extensão
+ITCP
+PEC
+Pesquisa
+PEX
+Prêmio de Extensão
+PROEXT
+Saberes Indígenas
+
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,65,"
+							Editais & Bolsas
+						",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,66,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,67,Ações de Extensão e Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,68,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,69,Edital dos Colégios Técnicos,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,70,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,71,Ações Afirmativas,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,72,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,73,Bolsa de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,74,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,75,Cultura,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,76,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,77,EAD,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,78,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,79,Curricularização da Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,80,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,81,ITCP,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,82,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,83,PEC,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,84,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,85,Pesquisa,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,86,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,87,PEX,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,88,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,89,Prêmio de Extensão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,90,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,91,PROEXT,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,92,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,93,Saberes Indígenas,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,94,"
+Eventos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,95,Eventos,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,96,"
+Notícias
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,97,Notícias,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,98,"
+Contato
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,99,Contato,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,100,"
+Logotipos
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,101,Logotipos,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,102,"
+Congresso
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,103,Congresso,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,104,Diretoria Administrativa,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,105,"
+Sobre
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,106,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,107,"
+Equipe
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,108,Equipe,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,109,"
+Dúvidas
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,110,Dúvidas,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,111,Missão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,112,"Dar suporte administrativo ao Pró Reitor, seus assessores, diretores e demais servidores, organizando as informações pertinentes necessárias para o bom andamento dos serviços.",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,113,Visão,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,114,"Ser a principal referência para a PROEC e demais Órgãos, no atendimento às demandas administrativas dos seus usuários.",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,115,Valores,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,116,Cumprir a missão da área com:,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,117,Ética;,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,118,Pontualidade;,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,119,Respeito;,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,120,Humanidade;,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,121,Equidade;,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,122,Atender as legislações pertinentes aos trabalhos administrativas.,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,123,,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,124,© Pró-Reitoria de Extensão e Cultura.,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,124,"Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação
+",,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,125,Desenvolvido por DTIC - Diretoria de Tecnologia da Informação e Comunicação,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,126,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,127,Topo,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,128,Sobre,,,,,,,,,,,,
+https://www.proec.unicamp.br/adm,129,Sobre,,,,,,,,,,,,
