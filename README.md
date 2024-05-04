@@ -45,13 +45,13 @@ Depois disso, as alterações serão mescladas.
 
 
 ## FAQ
-Como o programa está elaborado 'extractor_v6.py?
-    - O arquivo 'extractor_v6.py' é responsável por extrair, organizar e salvar os dados das 
+1. Como o programa está elaborado 'extractor_v6.py?
+   a) O arquivo 'extractor_v6.py' é responsável por extrair, organizar e salvar os dados das 
         páginas(URLs) designadas de forma a preencher o dataframe elaborado pelo Prof. José Martino
-    - A maior parte dos sites não tem tanto conteúdo, toda a informação extraida tinha sido contabilizada 
+   b) A maior parte dos sites não tem tanto conteúdo, toda a informação extraida tinha sido contabilizada 
         em 1380 linhas
-Onde os dado ficam salvos?
-    - Na pasta data, existem 4 diferentes formatos de dados, conforme o trabalho foi executado,
+2. Onde os dado ficam salvos?
+    a) Na pasta data, existem 4 diferentes formatos de dados, conforme o trabalho foi executado,
     algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
 
 ## Credit/Acknowledgment
@@ -68,7 +68,7 @@ As tarefas executadas ao longo do ano foram as seguintes:
 2. Gerar arquivo no formato csv para ser importado no Excel contendo as seguintes colunas:
 a. URL da página Web e id numérico interno (Página);
 b. 10 do parágrafo (Parágrafo/Bloco);
-€. 1Dda sentença (Sentença);
+c. Da sentença (Sentença);
 d. Texto em português da sentença (Português);
 e. Nome do responsável pela transcrição do texto em português para a planilha (Resp.
 Português) (conteúdo: tweb — transcrição Web)
