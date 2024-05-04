@@ -45,14 +45,14 @@ Depois disso, as alterações serão mescladas.
 
 
 ## FAQ
-1. Como o programa está elaborado 'extractor_v6.py?
-   a) O arquivo 'extractor_v6.py' é responsável por extrair, organizar e salvar os dados das 
+1. Como o programa está elaborado 'extractor_v6.py?  
+   a) O arquivo 'extractor_v6.py' é responsável por extrair, organizar e salvar os dados das  
         páginas(URLs) designadas de forma a preencher o dataframe elaborado pelo Prof. José Martino
-   b) A maior parte dos sites não tem tanto conteúdo, toda a informação extraida tinha sido contabilizada 
-        em 1380 linhas
-2. Onde os dado ficam salvos?
-    a) Na pasta data, existem 4 diferentes formatos de dados, conforme o trabalho foi executado,
-    algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
+   b) A maior parte dos sites não tem tanto conteúdo, toda a informação extraida tinha sido contabilizada  
+        em 1380 linhas  
+2. Onde os dado ficam salvos?  
+    a) Na pasta data, existem 4 diferentes formatos de dados, conforme o trabalho foi executado,  
+    algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias. 
 
 ## Credit/Acknowledgment
 João Pedro Estima Machado e Prof. Dr. José Mario Martino
