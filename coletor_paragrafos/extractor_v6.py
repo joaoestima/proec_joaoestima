@@ -4,18 +4,19 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-urls_path = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls_v6.txt'
-output_folder = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v6'
+urls_path = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls_v6.txt'
+output_folder = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v7'
 template_path = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
 
 
 def read_urls_from_file(urls_path):
     urls = []
+
     with open(urls_path, 'r', encoding='utf-8') as file:
         for line in file:
             url = line.strip()
             urls.append(url)
-    return urls
+        return urls
 
 
 def extract_content_from_url(url):
@@ -55,25 +56,26 @@ def main():
     except FileExistsError:
         pass  # Output folder already exists
 
-    for url in url_list:
+    for j, url in enumerate(url_list):
         paragraphs = extract_content_from_url(url)
         if not paragraphs:
             continue
 
-        df = pd.DataFrame(columns=['URL', 'Parágrafo/Bloco', 'Sentença', 'Português', 'Resp. Português',
+        df = pd.DataFrame(columns=['URL', 'Parágrafo/Bloco', 'Index', 'Sentença', 'Português', 'Resp. Português',
                                    'Rev. Português', 'Glosas', 'Resp. Glosas', 'Arquivo Vídeo',
                                    'Resp. Vídeo', 'Rev. Tradução', 'Mocap', 'Vídeo Mocap',
                                    'Elan', 'Resp.  Elan','Rev. Elan'])
-
         for i, paragraph in enumerate(paragraphs):
+            ind = j + 1
             sentences = re.split("(?<=[.!?])\s+", paragraph)
+            index_str = f"web_u{ind}_s{i:02}"  # Pad with zeros for consistent formatting
             temp_df = pd.DataFrame({
                 'URL': [url] * len(sentences),
                 'Parágrafo/Bloco': [i] * len(sentences),
+                'Index': [index_str]*len(sentences),
                 'Sentença': sentences
             })
             df = pd.concat([df, temp_df], ignore_index=True)
-
         # Drop duplicates based on URL and Sentença columns
         df = df.drop_duplicates(subset=['URL', 'Sentença'])
 
@@ -81,7 +83,7 @@ def main():
         df['Parágrafo/Bloco'] = df.groupby('URL').cumcount()
 
         j = len(os.listdir(output_folder)) + 1
-        file_name = f'web_u0{j}.csv'
+        file_name = f'web_u{j}.csv'
 
         save_to_csv(df, output_folder, file_name)
         print(f"Processed: {url}")
