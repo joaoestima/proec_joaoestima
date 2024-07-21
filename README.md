@@ -44,7 +44,7 @@ Certifique-se de ter um ambiente Python configurado com as bibliotecas necessár
 
 | No | File Name | Details 
 |----|-----------|---------|
-| 1  | `extractor_v6.py` | Script responsável por extrair, organizar e salvar dados das páginas web |
+| 1  | `parser.py` | Script responsável por extrair, organizar e salvar dados das páginas web |
 | 2  | `urls_path` | Caminho para o arquivo contendo as URLs a serem processadas |
 | 3  | `output_folder` | Diretório onde os arquivos CSV serão salvos |
 | 4  | `template_path` | Caminho para o arquivo template utilizado como base para os CSVs |
@@ -59,7 +59,7 @@ Para construir e preparar o ambiente, siga os passos abaixo:
 Para implantar o projeto, siga os passos abaixo:
 1. Certifique-se de que todas as dependências estão instaladas.
 2. Configure os caminhos dos arquivos no script.
-3. Execute o script principal `extractor_v6.py`.
+3. Execute o script principal `parser.py`.
 
 **Steps to work with feature branch**
 1. Para começar a trabalhar em um novo recurso, crie um novo branch prefixado com `feat` e seguido pelo nome do recurso (ex.: `feat-FEATURE-NAME`).
@@ -71,8 +71,8 @@ Para implantar o projeto, siga os passos abaixo:
 3. Certifique-se de que o PR passe por todas as verificações de integração contínua e obtenha avaliações positivas.
 
 ## FAQ
-1. Como o programa está estruturado no `extractor_v6.py`?
-   - O arquivo `extractor_v6.py` é responsável por extrair, organizar e salvar os dados das páginas (URLs) designadas, preenchendo o DataFrame elaborado pelo Prof. José Martino.
+1. Como o programa está estruturado no `parser.py`?
+   - O arquivo `parser.py` é responsável por extrair, organizar e salvar os dados das páginas (URLs) designadas, preenchendo o DataFrame elaborado pelo Prof. José Martino.
    - A maior parte dos sites não tem tanto conteúdo, toda a informação extraída foi contabilizada em 1380 linhas.
 
 2. Onde os dados são salvos?
