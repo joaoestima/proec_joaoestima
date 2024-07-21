@@ -1,12 +1,12 @@
 # proec_joaoestima
-programa de acessbilidade para as páginas de pró-reitoria e extensão cultural da Unicamp
+programa de acessibilidade/libras para as páginas de pró-reitoria e extensão cultural da Unicamp
 
 Como o programa está elaborado 'extractor_v6.py?
     - O arquivo 'extractor_v6.py' é responsável por extrair, organizar e salvar os dados das 
         páginas(URLs) designadas de forma a preencher o dataframe elaborado pelo Prof. José Martino
     - A maior parte dos sites não tem tanto conteúdo, toda a informação extraida tinha sido contabilizada 
         em 1380 linhas
-Onde os dado ficam salvos?
+Onde os dados ficam salvos?
     - Na pasta data, existem 4 diferentes formatos de dados, conforme o trabalho foi executado,
     algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
 

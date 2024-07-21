@@ -4,8 +4,6 @@ http://portal.proec.unicamp.br/assessores/
 http://portal.proec.unicamp.br/assistentes-tecnicos/
 http://portal.proec.unicamp.br/cultura/
 http://portal.proec.unicamp.br/centro-de-convencoes/
-http://portal.proec.unicamp.br/casa-do-lago/
-http://portal.proec.unicamp.br/cis-guanabara/
 http://portal.proec.unicamp.br/ginasio-multidisciplinar/
 http://portal.proec.unicamp.br/museu-de-artes-visuais/
 http://portal.proec.unicamp.br/museu-exploratorio-de-ciencias/
