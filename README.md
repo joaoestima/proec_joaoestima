@@ -53,7 +53,7 @@ proec_joaoestima
 ├── pagina_sobre_teste
 └── README.md
 
-### Build
+## Build
 Para construir e preparar o ambiente, siga os passos abaixo:
 
 1. **Instalar Git:**
@@ -74,6 +74,16 @@ Para construir e preparar o ambiente, siga os passos abaixo:
 4. **Instalar as dependências:**
 	pip install -r requirements.txt
 ## Deployment
+### Passos para utilização:
+1. **Configurar os caminhos dos arquivos:**
+   - Defina os caminhos `urls_path`, `output_folder` e `template_path` no script conforme necessário.
+
+2. **Executar o script:**
+   - Execute o script `parser.py` para extrair conteúdo das URLs especificadas, organizá-lo e salvar em arquivos CSV no diretório de saída.
+
+3. **Modificar o HTML:**
+   - O script também modifica arquivos HTML para adicionar tags de acessibilidade, utilizando os dados extraídos e salvos nos arquivos CSV.
+
 1. Para implantar o projeto, siga os passos abaixo:
 
 Certifique-se de que todas as dependências estão instaladas.
@@ -95,6 +105,8 @@ Certifique-se de que o PR passe por todas as verificações de integração cont
 	A maior parte dos sites não tem tanto conteúdo, toda a informação extraída foi contabilizada em 1380 linhas.
 Onde os dados são salvos?
 
+	Na pasta data, existem diferentes formatos de dados conforme o trabalho foi executado. Algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
+2. Onde os dados são salvos?
 	Na pasta data, existem diferentes formatos de dados conforme o trabalho foi executado. Algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
 
 ## Credit/Acknowledgment
