@@ -6,7 +6,6 @@ import re
 
 urls_path = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls_v6.txt'
 output_folder = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v7'
-template_path = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
 
 def read_urls_from_file(urls_path):
     urls = []
@@ -64,8 +63,12 @@ def extract_content_from_url(url):
 
 def save_to_csv(data, output_folder, file_name):
     os.makedirs(output_folder, exist_ok=True)
-    file_path = os.path.join(output_folder, file_name)
     df = pd.DataFrame(data)
+
+    # Reset paragraph indexes to be continuous
+    df['Parágrafo'] = pd.factorize(df['Parágrafo'])[0] + 1
+
+    file_path = os.path.join(output_folder, file_name)
     df = df[['URL', 'Parágrafo', 'Sentença', 'Português', 'Rev. Português', 'Glosas', 'Resp. Glosas',
              'Arquivo Vídeo', 'Resp. Vídeo', 'Rev. Tradução', 'Mocap', 'Vídeo Mocap', 'Elan', 'Resp. Elan',
              'Rev. Elan', 'Video_Index']]
@@ -80,7 +83,7 @@ def count_and_store_rows(output_folder):
             total_rows += len(data_df)
 
     with open(os.path.join(output_folder, 'total_rows.txt'), 'w') as total_rows_file:
-        total_rows_file.write(f'Total Rows: {total_rows}')
+        total_rows_file.write(f'Total linhas: {total_rows}')
 
 def add_accessibility_tags(file_path, output_path, csv_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -98,12 +101,12 @@ def add_accessibility_tags(file_path, output_path, csv_path):
             video_index = video_index_dict[text]
             tag['class'] = tag.get('class', []) + ['tracked']
             tag['video-name'] = video_index
-            print(f"Modified tag: {tag.name}, Text: {text}, Video: {video_index}")  # Debug log
+            print(f"Tag modificada: {tag.name}, Text: {text}, Video: {video_index}")  # Debug log
 
     with open(output_path, 'w', encoding='utf-8') as file:
         file.write(str(soup))
 
-    print(f"Modified HTML saved to {output_path}")
+    print(f" HTML modificado salvo em: {output_path}")
 
 def main():
     url_list = read_urls_from_file(urls_path)
@@ -121,10 +124,10 @@ def main():
         df = pd.DataFrame(paragraphs)
         file_name = f'web_u{j+1}.csv'
         save_to_csv(df, output_folder, file_name)
-        print(f"Processed: {url}")
+        print(f"Processado: {url}")
 
     count_and_store_rows(output_folder)
-    print("Row count stored.")
+    print("Contagem de Linhas Salvo no .txt.")
 
     # Assuming you want to modify a specific HTML file
     html_file_path = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\estima\SOBRE A PROEC - Proec.html'

@@ -1,9 +1,8 @@
 # proec_joaoestima
-# Introduction
-- Programa de acessibilidade/Libras para as páginas da pró-reitoria e extensão cultural da Unicamp
+## Introduction
+Programa de acessibilidade/Libras para as páginas da Pró-Reitoria de Cultura e Extensão (PROEC) da Unicamp.
 
 ## Index
-
 - [About](#about)
 - [Usage](#usage)
 - [Development](#development)
@@ -15,13 +14,13 @@
 - [FAQ](#faq)
 - [Credit/Acknowledgment](#creditacknowledgment)
 
-### About
-Este projeto tem como objetivo implementar um programa de acessibilidade para as páginas web da pró-reitoria e extensão cultural da Unicamp, traduzindo o conteúdo das páginas para Libras (Língua Brasileira de Sinais).
+## About
+Este projeto tem como objetivo implementar um programa de acessibilidade para as páginas web da Pró-Reitoria de Cultura e Extensão (PROEC) da Unicamp, traduzindo o conteúdo das páginas para Libras (Língua Brasileira de Sinais).
 
-### Usage
-O algoritmo extrai e organiza dados das páginas web designadas, gerando um arquivo CSV contendo informações estruturadas sobre parágrafos e sentenças, além de adicionar tags de acessibilidade ao HTML das páginas. 
+## Usage
+O algoritmo extrai e organiza dados das páginas web designadas, gerando um arquivo CSV contendo informações estruturadas sobre parágrafos e sentenças, além de adicionar tags de acessibilidade ao HTML das páginas.
 
-#### Passos para utilização:
+### Passos para utilização:
 1. **Configurar os caminhos dos arquivos:**
    - Defina os caminhos `urls_path`, `output_folder` e `template_path` no script conforme necessário.
 
@@ -31,59 +30,75 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
 3. **Modificar o HTML:**
    - O script também modifica arquivos HTML para adicionar tags de acessibilidade, utilizando os dados extraídos e salvos nos arquivos CSV.
 
-### Development
+## Development
 
-#### Pre-Requisites
-- Python 3.x
-- Bibliotecas: `pandas`, `requests`, `beautifulsoup4`, `re`
+### Pré-requisitos
+- **Python 3.x**: Linguagem de programação utilizada para desenvolver o script.
+- **pandas**: Biblioteca utilizada para manipulação e análise de dados, especialmente para trabalhar com DataFrames.
+- **requests**: Biblioteca para fazer requisições HTTP e obter o conteúdo das páginas web.
+- **beautifulsoup4**: Biblioteca para análise de documentos HTML e extração de dados das páginas web.
+- **re**: Módulo de expressões regulares para trabalhar com padrões de texto.
 
-#### Development Environment
+### Ambiente de Desenvolvimento
 Certifique-se de ter um ambiente Python configurado com as bibliotecas necessárias instaladas.
 
-#### File Structure
-
-| No | File Name | Details 
-|----|-----------|---------|
-| 1  | `extractor_v6.py` | Script responsável por extrair, organizar e salvar dados das páginas web |
-| 2  | `urls_path` | Caminho para o arquivo contendo as URLs a serem processadas |
-| 3  | `output_folder` | Diretório onde os arquivos CSV serão salvos |
-| 4  | `template_path` | Caminho para o arquivo template utilizado como base para os CSVs |
+### Estrutura dos arquivos
+Estrutura de diretórios do projeto:
+proec_joaoestima
+│
+├── .git
+├── app
+├── coletor_paragrafos
+│ ├── parser.py
+├── pagina_sobre_teste
+└── README.md
 
 ### Build
 Para construir e preparar o ambiente, siga os passos abaixo:
-1. Clone o repositório: `git clone <URL do repositório>`
-2. Navegue até o diretório do projeto: `cd proec_joaoestima`
-3. Instale as dependências: `pip install -r requirements.txt`
 
-### Deployment
-Para implantar o projeto, siga os passos abaixo:
-1. Certifique-se de que todas as dependências estão instaladas.
-2. Configure os caminhos dos arquivos no script.
-3. Execute o script principal `extractor_v6.py`.
+1. **Instalar Git:**
+   - **Windows:**
+     - Baixe o instalador do Git em: https://gitforwindows.org/
+     - Execute o instalador e siga as instruções na tela.
+   - **Linux:**
+     - Ubuntu: `sudo apt-get install git`
+     - Fedora: `sudo dnf install git`
+     - Arch: `sudo pacman -S git`
 
-**Steps to work with feature branch**
-1. Para começar a trabalhar em um novo recurso, crie um novo branch prefixado com `feat` e seguido pelo nome do recurso (ex.: `feat-FEATURE-NAME`).
-2. Depois de concluir as alterações, faça um Pull Request (PR).
+2. **Clonar o repositório:**
+	git clone https://github.com/joaoestima/proec_joaoestima.git
 
-**Steps to create a pull request**
-1. Faça um PR para o branch `stage`.
-2. Siga as melhores práticas e diretrizes (ex.: se o PR se refere a elementos visuais, inclua uma imagem mostrando o efeito).
-3. Certifique-se de que o PR passe por todas as verificações de integração contínua e obtenha avaliações positivas.
+3. **Navegar até o diretório do projeto:**
+	cd proec_joaoestima
 
+4. **Instalar as dependências:**
+	pip install -r requirements.txt
+## Deployment
+1. Para implantar o projeto, siga os passos abaixo:
+
+Certifique-se de que todas as dependências estão instaladas.
+Configure os caminhos dos arquivos no script.
+Execute o script principal parser.py.
+### Passos para trabalhar em outra branch
+
+	Para começar a trabalhar em um novo recurso, crie um novo branch prefixado com feat e seguido pelo nome do recurso (ex.: feat-FEATURE-NAME).
+	Depois de concluir as alterações, faça um Pull Request (PR).
+	Passos para criar um pull request
+
+Faça um PR para o branch stage.
+Siga as melhores práticas e diretrizes (ex.: se o PR se refere a elementos visuais, inclua uma imagem mostrando o efeito).
+Certifique-se de que o PR passe por todas as verificações de integração contínua e obtenha avaliações positivas.
 ## FAQ
-1. Como o programa está estruturado no `extractor_v6.py`?
-   - O arquivo `extractor_v6.py` é responsável por extrair, organizar e salvar os dados das páginas (URLs) designadas, preenchendo o DataFrame elaborado pelo Prof. José Martino.
-   - A maior parte dos sites não tem tanto conteúdo, toda a informação extraída foi contabilizada em 1380 linhas.
+1. Como o programa está estruturado no parser.py?
 
-2. Onde os dados são salvos?
-   - Na pasta `data`, existem diferentes formatos de dados conforme o trabalho foi executado. Algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
+	O arquivo parser.py é responsável por extrair, organizar e salvar os dados das páginas (URLs) designadas, preenchendo o DataFrame elaborado pelo Prof. José Martino.
+	A maior parte dos sites não tem tanto conteúdo, toda a informação extraída foi contabilizada em 1380 linhas.
+Onde os dados são salvos?
+
+	Na pasta data, existem diferentes formatos de dados conforme o trabalho foi executado. Algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
 
 ## Credit/Acknowledgment
 João Pedro Estima Machado e Prof. Dr. José Mario Martino
-
-Próximos passos:
-- Extrair conteúdo de imagens das páginas.
-- Implementar o talita_web_plugin.
 
 ================================================================================================================
 As tarefas executadas ao longo do ano foram as seguintes:

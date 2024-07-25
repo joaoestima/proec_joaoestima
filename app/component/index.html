@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>Teste</title>
+        
+        <meta charset="UTF-8">
+        
+        <link rel="stylesheet" type="text/css" href="./talita.css">
+        <link rel="stylesheet" type="text/css" href="./talita-text-interaction.css">
+        
+        <script type="text/javascript"  src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="./talita.js"></script>
+        
+        <script type="text/javascript">
+
+            $(document).ready(function(event) {
+
+                $("body").talita({
+                    button: {
+                        position: "right"},
+                    player: {
+                        videoPath: "./video/",
+                        videoId: "video-name",
+                        track: ".tracked",
+                        width: 288,
+                        height: 324,
+                        position: "right"
+                    }
+                });
+            })
+        </script>
+
+    </head>
+    <body>
+
+        <a video-name="s001_talita.mp4" class="tracked" href="https://www.google.com.br">Google Link!</a><br>
+        <span video-name="s002_talita.vp9.webm" class="tracked">Olá, eu sou a primeira frase de teste!!</span><br>
+        <span video-name="s001_talita.mp4.webm" class="tracked">Olá, eu sou a segunda frase de teste!!</span><br>
+        <span video-name="s002_talita.mp4" class="tracked">Olá, eu sou a terceira frase de teste!!</span><br>
+        <span video-name="s002_talita.vp9.webm" class="tracked">Olá, eu sou a primeira frase de teste!!</span><br>
+
+        <img class="tracked" video-name="s002_talita.vp9.webm" src="http://www.comvest.unicamp.br/wp-content/uploads/2017/03/logo-comvest.png" alt="COMVEST"><br>
+
+        <img src="http://www.comvest.unicamp.br/wp-content/uploads/2018/05/folder_ingresso-1.png" width="842" height="595" border="0" usemap="#map" />
+        <map name="map">
+            <!-- #$-:Image map file created by GIMP Image Map plug-in -->
+            <!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+            <!-- #$-:Please do not edit lines starting with "#$" -->
+            <!-- #$VERSION:2.3 -->
+            <!-- #$AUTHOR:Lucas -->
+            <area id="entrar_unicamp" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="218,23,635,158" alt="Quer entrar na UNICAMP?" nohref="nohref" />
+            <area id="olimpiadas" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="189,264,314,430" alt="Olímpiadas" nohref="nohref" />
+            <area id="enem" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="365,236,454,419" alt="ENEM" nohref="nohref" />
+            <area id="vestibular" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="533,235,673,419" alt="Vestibular" nohref="nohref" />
+            <area id="bonus_nota" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="684,378,780,559" alt="Bônus na nota" nohref="nohref" />
+            <area id="profis" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="474,465,604,569" alt="PROFIS" nohref="nohref" />
+            <area id="vestibular_indigena" video-name="s002_talita.vp9.webm" class="tracked" shape="rect" coords="277,449,418,565" alt="Vestibular Indígena" nohref="nohref" />
+            <area id="cotas" class="tracked" video-name="s002_talita.vp9.webm" shape="rect" coords="51,342,161,545" alt="Cotas" nohref="nohref" />
+        </map>
+
+    </body>
+</html>

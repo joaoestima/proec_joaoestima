@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup
 import re
 
 urls_path = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\extracted_urls_v6.txt'
-output_folder = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v7'
-template_path = r'C:\Users\joaop\OneDrive\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
+output_folder = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\data_v7'
+template_path = r'C:\Users\estima\Documents\UNICAMP\PROEC\proec_joaoestima\coletor_paragrafos\data\web_u01_p01.csv'
 
 
 def read_urls_from_file(urls_path):
@@ -24,44 +24,16 @@ def extract_content_from_url(url):
     response.raise_for_status()
 
     soup = BeautifulSoup(response.content, 'html.parser')
-    tags = soup.find_all(re.compile(r'^h[1-6]$|^b$|^p$|^small$'))
-    paragraphs = []
-    #sentences = df.drop_duplicates(subset=['Português'], inplace=True)  # Remove duplicate sentences
-    for i, tag in enumerate(tags):
-        text = tag.get_text().strip()
-        if text:
-            sentences = re.split("(?<=[.!?])\s+", text)
-            for j, sentence in enumerate(sentences):
-                paragraphs.append({
-                    'URL': url,
-                    'Parágrafo': i,
-                    'Sentença': j + 1,
-                    'Português': sentence.strip(),  # Store only the sentence text
-                    'Rev. Português': '',  # Include empty placeholders for other columns
-                    'Glosas': '',
-                    'Resp. Glosas': '',
-                    'Arquivo Vídeo': '',
-                    'Resp. Vídeo': '',
-                    'Rev. Tradução': '',
-                    'Mocap': '',
-                    'Vídeo Mocap': '',
-                    'Elan': '',
-                    'Resp. Elan': '',
-                    'Rev. Elan': ''
-                })
-    paragraphs = pd.DataFrame(paragraphs).drop_duplicates(subset=['Português']).to_dict('records')
+    tags = soup.find_all(re.compile(r'^h[1-6]$|^a$|^b$|^p$|^small$|^li$'))
+
+    paragraphs = [tag.get_text() for tag in tags if tag.get_text().strip()]
     return paragraphs
 
 
 def save_to_csv(data, output_folder, file_name):
     os.makedirs(output_folder, exist_ok=True)
     file_path = os.path.join(output_folder, file_name)
-    df = pd.DataFrame(data)
-    df = df[['URL', 'Parágrafo', 'Sentença', 'Português', 'Rev. Português', 'Glosas', 'Resp. Glosas',
-             'Arquivo Vídeo', 'Resp. Vídeo', 'Rev. Tradução', 'Mocap', 'Vídeo Mocap', 'Elan', 'Resp. Elan',
-             'Rev. Elan']]
-    df.to_csv(file_path, index=False, encoding='utf-8')
-    df.to_csv(file_path, index=False, encoding='utf-8')
+    data.to_csv(file_path, index=False, encoding='utf-8')
 
 
 def count_and_store_rows(output_folder):
@@ -89,7 +61,27 @@ def main():
         if not paragraphs:
             continue
 
-        df = pd.DataFrame(paragraphs)
+        df = pd.DataFrame(columns=['URL', 'Parágrafo/Bloco', 'Index', 'Sentença', 'Português', 'Resp. Português',
+                                   'Rev. Português', 'Glosas', 'Resp. Glosas', 'Arquivo Vídeo',
+                                   'Resp. Vídeo', 'Rev. Tradução', 'Mocap', 'Vídeo Mocap',
+                                   'Elan', 'Resp.  Elan','Rev. Elan'])
+        for i, paragraph in enumerate(paragraphs):
+            ind = j + 1
+            sentences = re.split("(?<=[.!?])\s+", paragraph)
+            index_str = f"web_u{ind}_s{i:02}"  # Pad with zeros for consistent formatting
+            temp_df = pd.DataFrame({
+                'URL': [url] * len(sentences),
+                'Parágrafo/Bloco': [i] * len(sentences),
+                'Index': [index_str]*len(sentences),
+                'Sentença': sentences
+            })
+            df = pd.concat([df, temp_df], ignore_index=True)
+        # Drop duplicates based on URL and Sentença columns
+        df = df.drop_duplicates(subset=['URL', 'Sentença'])
+
+        # Reset the index of the "Parágrafo/Bloco" column
+        df['Parágrafo/Bloco'] = df.groupby('URL').cumcount()
+
         j = len(os.listdir(output_folder)) + 1
         file_name = f'web_u{j}.csv'
 
