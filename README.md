@@ -20,15 +20,38 @@ Este projeto tem como objetivo implementar um programa de acessibilidade para as
 ## Usage
 O algoritmo extrai e organiza dados das páginas web designadas, gerando um arquivo CSV contendo informações estruturadas sobre parágrafos e sentenças, além de adicionar tags de acessibilidade ao HTML das páginas.
 
-### Passos para utilização:
+### Passos para Utilização:
+
 1. **Configurar os caminhos dos arquivos:**
-   - Defina os caminhos `urls_path`, `output_folder` e `template_path` no script conforme necessário.
+   - **`urls_path`**: Caminho para o arquivo de texto que contém as URLs das páginas que você deseja processar. Cada linha do arquivo deve conter uma URL.
+     - Exemplo: `urls_path = r'C:\caminho\para\seu\arquivo\extracted_urls_v6.txt'`
+   - **`output_folder`**: Diretório onde os arquivos CSV gerados serão salvos. Este diretório será criado automaticamente se não existir.
+     - Exemplo: `output_folder = r'C:\caminho\para\seu\diretorio\de\saida'`
+   - **`template_path`**: Caminho para o arquivo CSV template que define a estrutura dos arquivos de saída. Este arquivo template deve estar formatado corretamente com as colunas necessárias.
+     - Exemplo: `template_path = r'C:\caminho\para\seu\arquivo\template\web_u01_p01.csv'`
 
 2. **Executar o script:**
-   - Execute o script para extrair conteúdo das URLs especificadas, organizá-lo e salvar em arquivos CSV no diretório de saída.
+   - Após configurar os caminhos acima, você pode executar o script `parser.py`. Esse script irá:
+     1. **Ler as URLs** do arquivo `urls_path`.
+     2. **Fazer requisições HTTP** para cada URL e extrair o conteúdo das páginas utilizando as bibliotecas `requests` e `beautifulsoup4`.
+     3. **Processar o conteúdo HTML** para identificar e organizar parágrafos e sentenças, e em seguida, salvar esses dados em arquivos CSV no diretório especificado em `output_folder`.
+     4. **Gerar índices de vídeos** associados às sentenças extraídas, assegurando que sentenças idênticas tenham o mesmo índice de vídeo.
+
+   - Para executar o script, abra um terminal, navegue até o diretório onde o script está localizado e digite:
+     ```sh
+     python coletor_paragrafos/parser.py
+     ```
 
 3. **Modificar o HTML:**
-   - O script também modifica arquivos HTML para adicionar tags de acessibilidade, utilizando os dados extraídos e salvos nos arquivos CSV.
+   - O script também permite modificar arquivos HTML existentes para adicionar tags de acessibilidade. Após o processamento das URLs:
+     1. Os arquivos HTML especificados no script serão carregados.
+     2. Utilizando os dados salvos nos arquivos CSV gerados, o script irá adicionar classes de acessibilidade (`class="tracked"`) e associar os nomes dos arquivos de vídeo (`video-name="sXXX_talita.vp9.webm"`) às tags HTML correspondentes.
+     3. Os arquivos HTML modificados serão salvos no local especificado pelo caminho `output_html_path`.
+
+   - Para modificar os arquivos HTML:
+     1. Certifique-se de que os arquivos CSV foram gerados corretamente.
+     2. Defina os caminhos para o arquivo HTML a ser modificado (`html_file_path`) e o local onde o arquivo modificado será salvo (`output_html_path`).
+     3. Execute a função `add_accessibility_tags` dentro do script `parser.py` ou utilize a função `main()` para executar o processo completo.
 
 ## Development
 
@@ -38,6 +61,7 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
 - **requests**: Biblioteca para fazer requisições HTTP e obter o conteúdo das páginas web.
 - **beautifulsoup4**: Biblioteca para análise de documentos HTML e extração de dados das páginas web.
 - **re**: Módulo de expressões regulares para trabalhar com padrões de texto.
+- **shutill**: Módulo oferece uma série de operações de alto nível em arquivos e coleções de arquivos. Para operações em arquivos individuais, consulte também o módulo os.
 
 ### Ambiente de Desenvolvimento
 Certifique-se de ter um ambiente Python configurado com as bibliotecas necessárias instaladas.
@@ -67,6 +91,7 @@ Para construir e preparar o ambiente, siga os passos abaixo:
 
 2. **Clonar o repositório:**
 	git clone https://github.com/joaoestima/proec_joaoestima.git
+    Ou escreva no seu Command Prompt o comando acima.
 
 3. **Navegar até o diretório do projeto:**
 	cd proec_joaoestima
