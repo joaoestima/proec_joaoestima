@@ -28,7 +28,7 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
      - Exemplo: `urls_path = r'C:\caminho\para\seu\arquivo\extracted_urls_v6.txt'`
    - **`output_folder`**: Diretório onde os arquivos CSV gerados serão salvos. Este diretório será criado automaticamente se não existir.
      - Exemplo: `output_folder = r'C:\caminho\para\seu\diretorio\de\saida'`
-   - **`component_folder`**: Caminho para a pasta onde estão armazenados os arquivos `talita.js`, `talita.css`, `talita-text-interaction.js` e os vídeos de tradução.
+   - **`component_folder`**: Caminho para a pasta onde estão armazenados os arquivos `talita.js`, `talita.css`, `talita-text-interaction.css` e os vídeos de tradução.
      - Exemplo: `component_folder = r'C:\caminho\para\seus\componentes'`
 
 2. **Executar o script:**
@@ -92,8 +92,8 @@ Para construir e preparar o ambiente, siga os passos abaixo:
      - Arch: `sudo pacman -S git`
 
 2. **Clonar o repositório:**
-	git clone https://github.com/joaoestima/proec_joaoestima.git
-    Ou escreva no seu Command Prompt o comando acima.
+   git clone https://github.com/joaoestima/proec_joaoestima.git
+   Ou escreva no seu Command Prompt(CMD) o comando acima.
 
 3. **Navegar até o diretório do projeto:**
 	cd proec_joaoestima
@@ -137,7 +137,7 @@ Onde os dados são salvos?
 	Na pasta data, existem diferentes formatos de dados conforme o trabalho foi executado. Algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
 
 ## Credit/Acknowledgment
-João Pedro Estima Machado e Prof. Dr. José Mario Martino
+João Pedro Estima Machado e Prof. Dr. José Mario de Martino
 
 ================================================================================================================
 As tarefas executadas ao longo do ano foram as seguintes:
