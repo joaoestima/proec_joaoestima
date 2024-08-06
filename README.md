@@ -23,7 +23,7 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
 
 ### Passos para Utilização:
 
-1. **Configurar os caminhos dos arquivos:**
+1. **Configurar os caminhos dos arquivos no algoritmo parser.py na sua IDE de preferência, não esqueça de colocar o enderço absoluto:**
    - **`urls_path`**: Caminho para o arquivo de texto que contém as URLs das páginas que você deseja processar. Cada linha do arquivo deve conter uma URL.
      - Exemplo: `urls_path = r'C:\caminho\para\seu\arquivo\extracted_urls_v6.txt'`
    - **`output_folder`**: Diretório onde os arquivos CSV gerados serão salvos. Este diretório será criado automaticamente se não existir.
@@ -99,7 +99,45 @@ Para construir e preparar o ambiente, siga os passos abaixo:
 	cd proec_joaoestima
 
 4. **Instalar as dependências:**
-	pip install -r requirements.txt
+	pip install -r .\coletor_paragrafos\data\requirements.txt
+### Instalação do ChromeDriver para Selenium
+
+O Selenium requer um WebDriver para interagir com o navegador. Se você estiver usando o Google Chrome, precisará instalar o ChromeDriver, que é um programa separado que permite que o Selenium controle o navegador.
+
+#### Passos para instalar o ChromeDriver:
+
+1. **Verifique a versão do Google Chrome instalada**:
+   - Abra o Google Chrome.
+   - Clique nos três pontos no canto superior direito e selecione "Ajuda" > "Sobre o Google Chrome".
+   - Anote o número da versão do Chrome (por exemplo, `114.0.5735.199`).
+
+   2. **Baixe a versão correspondente do ChromeDriver**:
+      - Visite o [site oficial do ChromeDriver](https://sites.google.com/chromium.org/driver/downloads).
+      - Selecione a versão do ChromeDriver que corresponde à versão do Google Chrome instalada no seu sistema.
+      - Faça o download do arquivo ZIP correspondente ao seu sistema operacional (Windows, Mac, Linux).
+
+   3. **Extraia o ChromeDriver**:
+      - Após baixar o arquivo ZIP, extraia o conteúdo para uma pasta de sua escolha.
+      - Anote o caminho para o arquivo `chromedriver.exe` (no Windows) ou `chromedriver` (no Mac/Linux).
+
+   4. **Adicione o ChromeDriver ao PATH do sistema** (opcional):
+      - Para facilitar o uso do ChromeDriver, você pode adicionar o caminho onde ele está localizado ao PATH do sistema.
+      - No Windows:
+        - Clique com o botão direito em "Este PC" e selecione "Propriedades".
+        - Clique em "Configurações avançadas do sistema".
+        - Na aba "Avançado", clique em "Variáveis de ambiente".
+        - Na seção "Variáveis do sistema", selecione a variável "Path" e clique em "Editar".
+        - Adicione o caminho completo para a pasta onde está o `chromedriver.exe` e clique em "OK".
+      - No Mac/Linux:
+        - Abra o terminal e edite o arquivo de configuração do shell (como `~/.bashrc` ou `~/.zshrc`).
+        - Adicione a linha: `export PATH=$PATH:/caminho/para/o/chromedriver`.
+        - Salve o arquivo e recarregue as configurações com `source ~/.bashrc` ou `source ~/.zshrc`.
+
+   5. **Verifique a instalação**:
+      - Abra um terminal e digite `chromedriver --version` para verificar se o ChromeDriver foi instalado corretamente e está acessível no PATH.
+
+Agora você está pronto para usar o Selenium com o Google Chrome. O ChromeDriver permitirá que o Selenium automatize a navegação no navegador, faça o download de páginas e interaja com os elementos da web de maneira programática.
+
 ## Deployment
 ### Passos para utilização:
 1. **Configurar os caminhos dos arquivos:**
