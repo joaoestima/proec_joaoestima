@@ -137,7 +137,7 @@ Onde os dados são salvos?
 	Na pasta data, existem diferentes formatos de dados conforme o trabalho foi executado. Algumas restrições foram percebidas e cada versão tenta abarcar as sugestões e mudanças necessárias.
 
 ## Credit/Acknowledgment
-João Pedro Estima Machado e Prof. Dr. José Mario de Martino
+João Pedro Estima Machado e Prof. Dr. José Mario De Martino
 
 ================================================================================================================
 As tarefas executadas ao longo do ano foram as seguintes:
