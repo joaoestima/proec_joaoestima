@@ -146,23 +146,13 @@
 
             $(track).mouseover(function(event) {
 
-                let element = $(this);
-
-                if (element.is("img") || element.is("area"))
-                    element.addClass("talita-image-over");
-                else
-                    element.addClass("talita-text-over");
+                $(this).addClass("talita-text-over");
 
             });
 
             $(track).mouseleave(function(event) {
 
-                let element = $(this);
-
-                if (element.is("img") || element.is("area"))
-                    element.addClass("talita-image-over");
-                else
-                    element.removeClass("talita-text-over");
+                $(this).removeClass("talita-text-over");
 
             });
 
@@ -174,17 +164,12 @@
                 component.removeClass("background");
 
                 // Apply style when clicked
-                let element = $(this);
+                let clicked = $(".talita-text-clicked");
 
-                if (!element.is("img") && !element.is("area"))
-                {
-                    let clicked = $(".talita-text-clicked");
+                if (clicked)
+                    clicked.removeClass("talita-text-clicked");
 
-                    if (clicked)
-                        clicked.removeClass("talita-text-clicked");
-    
-                    $(this).addClass("talita-text-clicked");
-                }
+                $(this).addClass("talita-text-clicked");
 
                 // Loads video on video tag
                 let video = $(this).attr(videoId);

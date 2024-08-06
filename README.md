@@ -62,6 +62,7 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
 - **beautifulsoup4**: Biblioteca para análise de documentos HTML e extração de dados das páginas web.
 - **re**: Módulo de expressões regulares para trabalhar com padrões de texto.
 - **shutill**: Módulo oferece uma série de operações de alto nível em arquivos e coleções de arquivos. Para operações em arquivos individuais, consulte também o módulo os.
+- **selenium**: Selenium fornece uma API simples para escrever testes funcionais/de aceitação usando Selenium WebDriver. Através da API Selenium Python você pode acessar todas as funcionalidades do Selenium WebDriver de forma intuitiva.
 
 ### Ambiente de Desenvolvimento
 Certifique-se de ter um ambiente Python configurado com as bibliotecas necessárias instaladas.

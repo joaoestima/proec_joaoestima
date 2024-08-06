@@ -16,13 +16,13 @@ div#talita-button:hover {
 }
 
 div#talita-button.left {
-    top: 5px;
-    left: 5px;
+    top: 40px;
+    left: 15px;
 }
 
 div#talita-button.right {
-    top: 5px;
-    right: 5px;
+    top: 40px;
+    right: 15px;
 }
 
 div#talita-container.started {
