@@ -1,4 +1,5 @@
 # proec_joaoestima
+
 ## Introduction
 Programa de acessibilidade/Libras para as páginas da Pró-Reitoria de Cultura e Extensão (PROEC) da Unicamp.
 
@@ -27,15 +28,16 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
      - Exemplo: `urls_path = r'C:\caminho\para\seu\arquivo\extracted_urls_v6.txt'`
    - **`output_folder`**: Diretório onde os arquivos CSV gerados serão salvos. Este diretório será criado automaticamente se não existir.
      - Exemplo: `output_folder = r'C:\caminho\para\seu\diretorio\de\saida'`
-   - **`template_path`**: Caminho para o arquivo CSV template que define a estrutura dos arquivos de saída. Este arquivo template deve estar formatado corretamente com as colunas necessárias.
-     - Exemplo: `template_path = r'C:\caminho\para\seu\arquivo\template\web_u01_p01.csv'`
+   - **`component_folder`**: Caminho para a pasta onde estão armazenados os arquivos `talita.js`, `talita.css`, `talita-text-interaction.js` e os vídeos de tradução.
+     - Exemplo: `component_folder = r'C:\caminho\para\seus\componentes'`
 
 2. **Executar o script:**
    - Após configurar os caminhos acima, você pode executar o script `parser.py`. Esse script irá:
      1. **Ler as URLs** do arquivo `urls_path`.
-     2. **Fazer requisições HTTP** para cada URL e extrair o conteúdo das páginas utilizando as bibliotecas `requests` e `beautifulsoup4`.
+     2. **Fazer o download da página** e seus assets utilizando `selenium`, salvando-os no diretório designado.
      3. **Processar o conteúdo HTML** para identificar e organizar parágrafos e sentenças, e em seguida, salvar esses dados em arquivos CSV no diretório especificado em `output_folder`.
-     4. **Gerar índices de vídeos** associados às sentenças extraídas, assegurando que sentenças idênticas tenham o mesmo índice de vídeo.
+     4. **Modificar o HTML** para adicionar classes de acessibilidade (`class="tracked"`) e associar os nomes dos arquivos de vídeo (`video-name="sXXX_talita.vp9.webm"`) às tags HTML correspondentes.
+     5. **Adicionar código customizado** ao final do arquivo HTML para garantir a funcionalidade de acessibilidade.
 
    - Para executar o script, abra um terminal, navegue até o diretório onde o script está localizado e digite:
      ```sh
@@ -47,11 +49,7 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
      1. Os arquivos HTML especificados no script serão carregados.
      2. Utilizando os dados salvos nos arquivos CSV gerados, o script irá adicionar classes de acessibilidade (`class="tracked"`) e associar os nomes dos arquivos de vídeo (`video-name="sXXX_talita.vp9.webm"`) às tags HTML correspondentes.
      3. Os arquivos HTML modificados serão salvos no local especificado pelo caminho `output_html_path`.
-
-   - Para modificar os arquivos HTML:
-     1. Certifique-se de que os arquivos CSV foram gerados corretamente.
-     2. Defina os caminhos para o arquivo HTML a ser modificado (`html_file_path`) e o local onde o arquivo modificado será salvo (`output_html_path`).
-     3. Execute a função `add_accessibility_tags` dentro do script `parser.py` ou utilize a função `main()` para executar o processo completo.
+     4. No final de cada página, o script adicionará um bloco de código para carregar os arquivos CSS e JS necessários e inicializar a interação com os vídeos.
 
 ## Development
 
@@ -61,11 +59,14 @@ O algoritmo extrai e organiza dados das páginas web designadas, gerando um arqu
 - **requests**: Biblioteca para fazer requisições HTTP e obter o conteúdo das páginas web.
 - **beautifulsoup4**: Biblioteca para análise de documentos HTML e extração de dados das páginas web.
 - **re**: Módulo de expressões regulares para trabalhar com padrões de texto.
-- **shutill**: Módulo oferece uma série de operações de alto nível em arquivos e coleções de arquivos. Para operações em arquivos individuais, consulte também o módulo os.
-- **selenium**: Selenium fornece uma API simples para escrever testes funcionais/de aceitação usando Selenium WebDriver. Através da API Selenium Python você pode acessar todas as funcionalidades do Selenium WebDriver de forma intuitiva.
+- **shutil**: Módulo que oferece uma série de operações de alto nível em arquivos e coleções de arquivos.
+- **selenium**: Biblioteca para automação de navegação web, utilizada para baixar páginas e seus assets.
 
 ### Ambiente de Desenvolvimento
 Certifique-se de ter um ambiente Python configurado com as bibliotecas necessárias instaladas.
+
+### Estrutura dos arquivos
+Estrutura de diretórios do projeto:
 
 ### Estrutura dos arquivos
 Estrutura de diretórios do projeto:
